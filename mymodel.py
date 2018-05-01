@@ -35,7 +35,7 @@ path3 = './imgfolder_b'
 path2="./mytrain2"##for our trainning
 
 # outputs
-output = [ "SCISSORS","NOTHING","ROCK", "PAPER"]
+output = ["NOTHING", "PAPER","ROCK", "SCISSORS"]
 
 
 
