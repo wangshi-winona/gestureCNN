@@ -24,13 +24,9 @@ img_cols=200
 nb_pool=2
 nb_classes=4
 batch_size=30
-nb_epoch=3
-defaultfname="myWeights.hdf5"
+nb_epoch=15
+defaultfname="new_weight.hdf5"
 path = "./"
-path1 = "./gestures"    #path of folder of images
-
-## Path2 is the folder which is fed in to training model
-path3 = './imgfolder_b'
 
 path2="./mytrain2"##for our trainning
 

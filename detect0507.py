@@ -26,7 +26,7 @@ fh = 18
 
 isGuessing = False
 
-weightfile = "weight_0501.hdf5"
+weightfile = "weight_0508.hdf5"
 
 def binaryMask(frame, x0, y0, width, height):
     global isGuessing, mod
